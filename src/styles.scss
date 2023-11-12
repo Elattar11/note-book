@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+
+a , a:hover{
+  color: white !important;
+  text-decoration: none;
+}
+
+.active-link
+{
+  color: #fff !important;
+  font-weight: bold;
+
+
+}
+
+.form-control:focus {
+  border-color: red !important;
+  box-shadow: 0 0 0 0;
+}
